@@ -1,10 +1,10 @@
 import Character from "./Character";
 
-export default class Bowman extends Character {
+export default class Vampire extends Character {
   constructor(...attrs) {
     super(...attrs);
     this.attack = 25;
     this.deffence = 25;
-    this.type = "bowman";
+    this.type = "vampire";
   }
 }
