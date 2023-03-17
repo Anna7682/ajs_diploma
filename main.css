@@ -100,7 +100,7 @@
     --map-tile-right-url: url(assets/images/desert/map-tile-right.png);
     --map-tile-center-url: url(assets/images/desert/map-tile-center.png);
   }
-  /
+  
   .board.arctic {
     --map-tile-top-left-url: url(assets/images/arctic/map-tile-top-left.png);
     --map-tile-top-url: url(assets/images/arctic/map-tile-top.png);
